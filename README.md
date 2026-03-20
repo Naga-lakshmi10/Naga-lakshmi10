@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Nagalakshmi 👋
 
-<!--
-**Naga-lakshmi10/Naga-lakshmi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Pragati Engineering College  
+💻 Aspiring Software Developer  
+🚀 Passionate about Data Structures, Problem Solving & Building Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+- 🌱 Currently learning Data Structures & Algorithms  
+- 💡 Interested in Software Development & Problem Solving  
+- 🔍 Exploring Full Stack Development  
+-- 🎯 Goal: Become a skilled Software Engineer and contribute to impactful projects  
+
+---
+
+## 🛠 Tech Stack
+- 💻 Languages: C, Python  
+- 🌐 Web: HTML, CSS (Learning)
+- 🗄️ Database: SQL 
+- ⚙️ Tools: Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- 🔹 **Student Management System**  
+  - Basic & Advanced version  
+  - Built using Python & SQLite  
+  - Features: Add, update, delete, and manage student records efficiently  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naga-lakshmi10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-lakshmi10&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Naga-lakshmi10&theme=tokyo-night)
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Problem Solving  
+- Full Stack Development  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: nagalakshmikarri27@gmail.com  
+- 💼 LinkedIn: [Nagalakshmi karri](https://www.linkedin.com/in/nagalakshmi-karri/)
+
+---
+
+⭐ *"Consistency + Practice = Success"*
+
