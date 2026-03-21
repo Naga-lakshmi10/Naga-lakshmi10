@@ -38,6 +38,11 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naga-lakshmi10&theme=tokyonight)
+
+
 ## 📈 Contribution Graph
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Naga-lakshmi10&theme=tokyo-night)
@@ -53,7 +58,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: nagalakshmikarri27@gmail.com  
-- 💼 LinkedIn: [Nagalakshmi karri](https://www.linkedin.com/in/nagalakshmi-karri/)
+- 💼 LinkedIn: [Nagalakshmi Karri](https://www.linkedin.com/in/nagalakshmi-karri/)
 
 ---
 
