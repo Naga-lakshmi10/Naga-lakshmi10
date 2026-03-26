@@ -40,7 +40,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Naga-lakshmi10&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Naga-lakshmi10&cache_seconds=0&theme=tokyonight) 
 
 
 ## 📈 Contribution Graph
