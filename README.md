@@ -40,7 +40,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naga-lakshmi10&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Naga-lakshmi10&cache_seconds=0)
 
 
 ## 📈 Contribution Graph
