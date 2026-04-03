@@ -32,13 +32,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naga-lakshmi10&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naga-lakshmi10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-lakshmi10&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-lakshmi10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Naga-lakshmi10&theme=tokyonight&hide_border=true&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=Naga-lakshmi10&theme=tokyonight&hide_border=true)
 
 
 ## 📈 Contribution Graph
