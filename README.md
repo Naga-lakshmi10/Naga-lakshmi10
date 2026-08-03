@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student at Pragati Engineering College  
 💻 Aspiring Software Developer  
-🚀 Passionate about Data Structures, Problem Solving & Building Projects  
+🚀 Passionate about Data Structures, Problem Solving & Building Projects
 
 ---
 
